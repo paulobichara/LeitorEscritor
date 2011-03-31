@@ -23,9 +23,6 @@ app that simulates semaphores resource concurrency control between two
 kinds of processes: readers and writers. The strings are in brazillian 
 portuguese and GUI in SWING.
 
-I'm submitting with the eclipse project structure, so, to run, just 
-checkout the project folder into your eclipse's workspace, go to 
-"Import -> Existing Project Into Workspace" and select its folder. The 
-main class is InterfaceLeitorEscritor.java.
+Main class: InterfaceLeitorEscritor.java.
 
 Good luck!
